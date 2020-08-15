@@ -1,1 +1,1 @@
-# temperature-hot
+# temperature-checker
